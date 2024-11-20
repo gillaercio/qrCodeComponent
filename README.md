@@ -23,7 +23,7 @@ This is my screenshot showing how the project turned out.
 
 ### Links
 
-- Solution URL: [My Solution]([https://www.frontendmentor.io/profile/gillaercio](https://gillaercio.github.io/qr_code_component/))
+- Solution URL: [My Solution](https://gillaercio.github.io/qrCodeComponent/)
 
 ## My process
 
